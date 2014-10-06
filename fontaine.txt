@@ -1,0 +1,46 @@
+Fonts
+  Font:
+    Common name: Jomolhari
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2006 by Christopher  Fynn. All rights reserved.
+    License: Jomolhari, a Tibetan script font 
+    License url: http://scripts.sil.org/OFL
+    Version: Version alpha 0.003c 2006
+    Vendor: Christopher  J.  Fynn (Karma Drubgyü Tenzin).
+    Vendor url: http://www.dit.gov.bt/
+    Designer: Christopher J. Fynn
+    Designer url: http://www.btinternet.com/~c.fynn/
+    Glyph count: 3333
+    Character count: 2093
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 7
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

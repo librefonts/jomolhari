@@ -1,0 +1,24 @@
+{
+  "name": "Jomolhari",
+  "designer": "Christopher J. Fynn",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 361502,
+  "fonts": [
+    {
+      "name": "Jomolhari",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Jomolhari-Regular.ttf",
+      "postScriptName": "Jomolhari",
+      "fullName": "Jomolhari",
+      "copyright": "Copyright (c) 2006 by Christopher  Fynn. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
